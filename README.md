@@ -1,5 +1,6 @@
 ### Hi there 👋
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JensVanhulst&theme=onedark" alt="yoyo930021" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=JensVanhulst-ma&margin-w=15" alt="jensV" /></a> </p>
 
 <!--
 **JensVanhulst/JensVanhulst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
