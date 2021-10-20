@@ -1,8 +1,8 @@
 👋 Hi, I’m @JensVanhulst
-👀 I’m interested in Full Stack development & Integration
-🚲 I love Cycling & Programming
-🏢 Currently working @Solita doing integration stuff
-🏠 In my free I program full stack applications in TS, Vue, React, Node ...
+- 👀 I’m interested in Full Stack development & Integration
+- 🚲 I love Cycling & Programming
+- 🏢 Currently working @Solita doing integration stuff
+- 🏠 In my free I program full stack applications in TS, Vue, React, Node ...
 
 
 <p align="center"> 
