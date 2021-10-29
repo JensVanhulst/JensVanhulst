@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T13:43:41.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="qBBMPZKCUfnuY7u-SxEI" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T15:05:23.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="mzuaX7Dq7y0l7NPIQMzy" version="15.6.2" type="github">
   <diagram id="kQYQ7ZY42pBOONnznJGe" name="Page-1">
     <mxGraphModel dx="1837" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,19 +47,19 @@
           <mxGeometry x="1083" y="605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZSADZLsk4UOC9W3OqM0E-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-128.png;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="920" width="50" height="50" as="geometry" />
+          <mxGeometry x="1060" y="870" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZSADZLsk4UOC9W3OqM0E-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/shopify-128.png;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="880" y="910" width="50" height="50" as="geometry" />
+          <mxGeometry x="690" y="870" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZSADZLsk4UOC9W3OqM0E-32" value="S_PRODUCTS" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="540" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZSADZLsk4UOC9W3OqM0E-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png;strokeColor=default;imageBorder=default;" parent="1" vertex="1">
-          <mxGeometry x="670" y="900" width="50" height="50" as="geometry" />
+          <mxGeometry x="528" y="870" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZSADZLsk4UOC9W3OqM0E-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-128.png;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1185" y="940" width="50" height="50" as="geometry" />
+          <mxGeometry x="1170" y="870" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZSADZLsk4UOC9W3OqM0E-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZSADZLsk4UOC9W3OqM0E-43" target="ZSADZLsk4UOC9W3OqM0E-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
