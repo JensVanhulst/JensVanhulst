@@ -7,7 +7,7 @@
     </a> 
 </p>
 
-## I'm an Integration Consultant and Self Tought Full Stack Developer
+## I'm an Integration Consultant & Full Stack Developer
 
 - 🌱 I’m currently learning **AzureIoT**
 - 🥅 2024 Goals: **Learn about iot**
